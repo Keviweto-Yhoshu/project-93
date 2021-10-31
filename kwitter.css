@@ -1,8 +1,9 @@
-.Divs{
-background-color: RED;
-color: black;
-border-width: 10px;
+.header{
+    background-color: red;
 }
-body{
-    background-color: chartreuse;
+#login_button{
+    background-color: coral;
+}
+#user_name{
+    background-color: aqua;
 }
